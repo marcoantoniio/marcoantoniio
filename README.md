@@ -1,4 +1,4 @@
-### Olá eu sou o Marco Antônio, estudante de Ciência de Dados e Inteligência Artificial
+### I'm just a data science & AI student
 
 <div align="center">
   <a href="https://github.com/marcoantoniio">
